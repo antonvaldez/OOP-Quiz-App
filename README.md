@@ -1,6 +1,6 @@
 # OOP Quiz App 🧠
 
-A simple command-line quiz app built with Python to practice Object-Oriented Programming (OOP) concepts like classes, objects, and encapsulation.
+A simple command-line quiz app built with Python to practice Object-Oriented Programming (OOP) concepts like classes, objects, API and GUI.
 
 ## 🗂️ Files
 
@@ -8,7 +8,8 @@ A simple command-line quiz app built with Python to practice Object-Oriented Pro
 - `question_model.py` - The `Question` class definition
 - `quiz_brain.py` - The `QuizBrain` class that controls quiz logic
 - `data.py` - Holds sample question data (easily replaceable with database queries)
-
+- `ui.py` - User Interface of the entire application
+- 
 ## 🚀 How to Run
 
 1. Make sure you have Python installed. Then run:
@@ -24,11 +25,9 @@ python main.py
 - Encapsulation
 - Looping through data
 - Input validation
+- GUI
+- Tkinter
+- API
 - Simple quiz game logic
-
-## 🧪 Future Improvements
-- Add a GUI (e.g., with Tkinter or PyQt)
-- Pull questions from an actual API or database
-- Add difficulty filtering
 
 Made with 💻 while learning Python and OOP.
